@@ -1,6 +1,6 @@
 # Classroom
 
-## Attributes
+## Attributes.
 * __classroomNumber__ (*integer*)
 * __sessionsSchedule__ (*array*)
 * __director__ (*string*)
@@ -9,7 +9,7 @@
 * __wallsColor__ (*string*)
 
 
-## Methods
+## Methods.
 * __openSchool__ (*update the isOpen attribute*)
 * __addSession__ (*append a session to sessionsSchedule attribute*)
 * __occupiedDesk__ (*changes the availableDesks attribute*)
