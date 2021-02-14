@@ -1,16 +1,16 @@
-# JazzMusicClassroom
+# instance JazzMusicClassroom
 
 ## Attributes.
-* __classroomNumber__ *12*
-* __sessionsSchedule__ *['Theory', 'Ensemble', 'Ear Training']*
-* __director__ (*Wynton Marsalis*)
-* __isOpen__ (*false*)
-* __availableDesks__ (*20*)
-* __wallsColor__ (*gray*)
+* __classroomNumber =__ *12*
+* __sessionsSchedule =__ *["Theory", "Ensemble", "Ear Training"]*
+* __director =__ *"Wynton Marsalis"*
+* __isOpen =__ *false*
+* __availableDesks =__ *20*
+* __wallsColor =__ *"gray"*
 
 
 ## Methods.
-* __openSchool__ *isOpen = true*
-* __addSession__ *sessionsSchedule = ['Theory', 'Ensemble', 'Ear Training', 'Private Lessons']*
-* __occupiedDesk__ *availableDesks = 17*
-* __paintClassroom__ *wallsColor = white*
+* __openSchool:__ *isOpen = true*
+* __addSession:__ *sessionsSchedule = ["Theory", "Ensemble", "Ear Training", "Private Lessons"]*
+* __occupiedDesk:__ *availableDesks = 17*
+* __paintClassroom:__ *wallsColor = "white"*

@@ -1,15 +1,15 @@
-# SoftwareDeveloperBootcamp
+# class SoftwareDeveloperBootcamp
 
 ## Attributes
 * __address__ (*string*)
 * __programingCourses__ (*array*)
 * __director__ (*string*)
-* __isOnline__ (*boolean*)
-* __classRatio__ (*integer*)
-* __Scholarships__ (*boolean*)
+* __isfullyRemote__ (*boolean*)
+* __classTotal__ (*integer*)
+* __scholarships__ (*boolean*)
 
 ## Methods
-* __presentialClasses__ (*update __isOnline__ attribute*)
-* __modifyCourse__ (*modify the __programingCourses__ attribute*)
-* __fireDirector__ (*changes the __director__ attribute*)
-* __supportPrograms__ (*update the __Scholarships__ attribute*)
+* __openClassesOnCampus__ (*update __isfullyRemote__*)
+* __modifyCourse__ (*modify the __programingCourses__*)
+* __fireDirector__ (*changes the __director__*)
+* __supportPrograms__ (*update the __scholarships__*)

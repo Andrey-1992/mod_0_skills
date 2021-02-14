@@ -1,15 +1,15 @@
-# TuringBootcamp
+# instance TuringBootcamp
 
 ## Attributes
-* __address__ (*1120 16th Steet, Denver, CO*)
-* __programingCourses__ (*['Front-end','Back-end']*)
-* __director__ (*Alan Turing*)
-* __isOnline__ (*true*)
-* __classRatio__ (*25*)
-* __Scholarships__ (*false*)
+* __address =__ *"1120 16th Steet, Denver, CO"*
+* __programingCourses =__ *["Front-end","Back-end"]*
+* __director =__ *"Alan Turing"*
+* __isfullyRemote =__ *true*
+* __classTotal =__ *25*
+* __scholarships =__ *false*
 
 ## Methods
-* __presentialClasses__  *__isOnline =__ false*
-* __modifyCourse__ *__programingCourses =__ ('Front-end', 'Full-stack')*)
-* __fireDirector__ (*__director =__ Jeff Casimir*)
-* __donationPrograms__ (*__Scholarships =__ true*)
+* __openClassesOnCampus:__  *isfullyRemote = false*
+* __modifyCourse:__ *programingCourses = ["Front-end", "Full-stack"]*
+* __fireDirector:__ *director = "Jeff Casimir"*
+* __donationPrograms:__ *scholarships = true*

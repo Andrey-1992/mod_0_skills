@@ -1,6 +1,6 @@
 var famousPerson = "Trump";
 var isActive = true;
-Trump = "Obama";
+famousPerson = "Obama";
 var num3 = 3;
 var num9 = 9;
 var sum = num3 + num9;
